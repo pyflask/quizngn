@@ -2,7 +2,7 @@
 #
 #   File Name      Date          Owner              Description
 #   ---------      ----          ----               -----------
-#   client.py  7/8/2014   Archana Bahuguna    Simulates HTTP client requests
+#   testclient.py  7/8/2018   Archana Bahuguna    Simulates HTTP client requests
 #                                             Used for testing qzengine
 #
 ###########################################################################

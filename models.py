@@ -2,7 +2,7 @@
 #
 #   File Name      Date          Owner               Description
 #   ----------   --------      ---------        -----------------
-#   models.py      7/8/2014   Archana Bahuguna  Db table design/models 
+#   models.py      7/8/2018   Archana Bahuguna  Db table design/models 
 #                                                for qzengine APIs 
 #
 #   Schema- models.db - tables: Users, Quizzes, Questions and Answer choices
