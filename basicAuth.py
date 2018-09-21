@@ -2,7 +2,7 @@
 #
 #   File Name      Date          Owner              Description
 #   ---------      ----          ----               -----------
-#   basicauth.py  7/8/2018   Archana Bahuguna    Basic Authentication
+#   basicauth.py  7/8/2018   Pyflask    Basic Authentication
 #                                                for qzengine Restful APIs
 #
 ###########################################################################

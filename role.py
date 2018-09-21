@@ -2,7 +2,7 @@
 #
 #   File Name      Date          Owner              Description
 #   ----------    -------      ---------          -----------------
-#   role.py      7/8/2018   Archana Bahuguna    Manages user and admin roles 
+#   role.py      7/8/2018      pyflask    Manages user and admin roles 
 #                                                 for qzengine APIs
 #
 ###########################################################################

@@ -2,7 +2,7 @@
 #
 #   File Name    Date       Owner                Description
 #   ---------   -------    ---------           -----------------------
-#   logs.py    7/8/2018  Archana Bahuguna   Logging module for qzengine 
+#   logs.py    7/8/2018  pyflask   Logging module for qzengine 
 #
 ###########################################################################
 

@@ -2,7 +2,7 @@
 #
 #   File Name      Date          Owner            Description
 #   ----------    -------      ----------       ----------------
-#   views.py      7/8/2018   Archana Bahuguna  View fns for qzngn APIs
+#   views.py      7/8/2018   pyflask     View fns for qzngn APIs
 #
 #  Handles HTTP requests/JSON for a qzengine restful API service using
 #  Flask/SQLAlchemy. 
