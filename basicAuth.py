@@ -11,7 +11,7 @@ from functools import wraps
 from flask import request, Response, jsonify, json, session
 import models, views, logs
 
-def check_auth(username, password):
+def auth_test_dbcheck_pass(username, password):
     #check for username 
     query_obj = models.User.query.filter_by(username=username).all()
     user_index = None
@@ -48,7 +48,7 @@ def login_required(f):
         # Auth header is in the format 'basic username:pwd role:admin'
         username, password = tuple(auth.split()[1].split(':'))
 
-        if not check_auth(username, password):
+        if not auth_test_dbcheck_pass(username, password):
             #Maybe we need to set a flag to limit the no of times
             # we should authenticate?
             logs.debug_( "Invalid username or password")
